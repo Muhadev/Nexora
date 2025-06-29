@@ -138,12 +138,12 @@ export function Hero() {
       </div>
       <div className="flex items-center justify-center px-4 w-full  mb-4 align-middle">
         <Link
-          href="https://www.producthunt.com/posts/ui-unify?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ui&#0045;unify"
+          href="https://www.producthunt.com/posts/NeXora?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-Ne&#0045;Xora"
           target="_blank"
         >
           <img
             src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=746617&theme=dark"
-            alt="U&#0205;&#0045;Unify - Multiple&#0032;UI&#0032;Libraries&#0044;&#0032;One&#0032;Platform&#0044;&#0032;Simplified | Product Hunt"
+            alt="U&#0205;&#0045;NeXora - Multiple&#0032;UI&#0032;Libraries&#0044;&#0032;One&#0032;Platform&#0044;&#0032;Simplified | Product Hunt"
             className="w-auto h-auto z-50"
           />
         </Link>
@@ -204,7 +204,7 @@ export function Hero() {
         <div className="flex justify-center my-10">
           <FlipWords
             words={[
-              'UÍ-Unify is based on ',
+              'NeXora is based on ',
               'Nextjs',
               'TailwindCSS',
               'Aceternity',

@@ -6,8 +6,8 @@ export default function Showcase() {
       <header className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-bold text-gray-800 dark:text-gray-200">
           <span className="font-bold text-red-400">
-            UÍ
-            <span className="text-gray-800 dark:text-[#E7E9EC]">-Unify</span>
+            Ne
+            <span className="text-gray-800 dark:text-[#E7E9EC]">Xora</span>
           </span>{' '}
           Showcase
         </h1>
@@ -23,7 +23,7 @@ export default function Showcase() {
       <div className="flex align-middle h-full text-2xl sm:text-4xl mt-20 sm:mt-40 text-center text-gray-700 dark:text-gray-200">
         <Marquee pauseOnHover className="[--duration:10s]">
           <h1 className="text-2xl font-bold text-red-800 dark:text-red-400">
-            UI-Unify Waiting...
+            NeXora Waiting...
           </h1>
         </Marquee>
       </div>

@@ -53,7 +53,7 @@ export function Navigation() {
           <Link href="/" className="flex items-center space-x-2">
             <ChartNoAxesGantt />
             <span className="font-bold text-xl text-red-400">
-              NE
+              Ne
               <span className="text-gray-800 dark:text-[#E7E9EC]">Xora</span>
             </span>
           </Link>

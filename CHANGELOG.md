@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 ## [1.0.0] - 2025-06-20
 
 ### Added
-- **Initial Release**: Complete implementation of UI-Unify with the following features:
+- **Initial Release**: Complete implementation of NeXora with the following features:
   - **UI Libraries Aggregation**: Access multiple UI libraries in one platform.
   - **Previews & Code Snippets**: Preview UI components and copy their code with a single click.
   - **AI Components**: Get AI-generated components (only code provided).

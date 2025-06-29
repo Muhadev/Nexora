@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'UÍ-Unify',
-  description: 'UI-Unify is one platform where multiple ui libraries components.',
+  title: 'NeXora',
+  description: 'NeXora is one platform where multiple ui libraries components.',
 };
 
 export default function RootLayout({
