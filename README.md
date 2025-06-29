@@ -1,14 +1,14 @@
-# UI-Unify
+# NeXora
 
 ![image](https://github.com/user-attachments/assets/2997d994-8d1e-4c8b-92e5-d0d94c5427ba)
 
  
 
-![Stars](https://img.shields.io/github/stars/PankajKumardev/ui-unify?style=social) ![Forks](https://img.shields.io/github/forks/PankajKumardev/ui-unify?style=social) ![Issues](https://img.shields.io/github/issues/PankajKumardev/ui-unify) 
+![Stars](https://img.shields.io/github/stars/Muhadev/Nexora?style=social) ![Forks](https://img.shields.io/github/forks/Muhadev/Nexora?style=social) ![Issues](https://img.shields.io/github/issues/Muhadev/Nexora) 
 
 ## 🌟 Overview
 
-UI-Unify aggregates components from multiple UI libraries into a single platform for seamless integration, exploration, and implementation. It simplifies UI development with diverse library access, empowering developers to create elegant interfaces effortlessly.
+NeXora aggregates components from multiple UI libraries into a single platform for seamless integration, exploration, and implementation. It simplifies UI development with diverse library access, empowering developers to create elegant interfaces effortlessly.
 
 ---
 
@@ -82,7 +82,7 @@ UI-Unify aggregates components from multiple UI libraries into a single platform
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PankajKumardev/ui-unify.git
+   git clone https://github.com/Muhadev/Nexora.git
    cd ui-unify
    ```
 2. Install dependencies:
@@ -106,7 +106,7 @@ UI-Unify aggregates components from multiple UI libraries into a single platform
 1. **Fork the repository** by clicking the "Fork" button.
 2. **Clone your fork:**
    ```bash
-   git clone https://github.com/pankajkumardev/ui-unify.git
+   git clone https://github.com/Muhadev/Nexora.git
    ```
 3. **Create a new branch:**
    ```bash
@@ -135,19 +135,19 @@ UI-Unify aggregates components from multiple UI libraries into a single platform
 
 We appreciate your support! 🌟🍴
 
-[![Stargazers](https://img.shields.io/github/stars/PankajKumardev/UI-Unify)](https://github.com/PankajKumardev/UI-Unify/stargazers) [![Forks](https://img.shields.io/github/forks/PankajKumardev/UI-Unify)](https://github.com/PankajKumardev/UI-Unify/network/members)
+[![Stargazers](https://img.shields.io/github/stars/Muhadev/Nexora)](https://github.com/Muhadev/Nexora/stargazers) [![Forks](https://img.shields.io/github/forks/Muhadev/Nexora)](https://github.com/Muhadev/Nexora/network/members)
 
 ---
 
 ## 🛡 License
 
-UI-Unify is available under the MIT License. Feel free to use and modify responsibly.
+NeXora is available under the MIT License. Feel free to use and modify responsibly.
 
 ---
 
 ## 📖 Changelog
 
-Refer to [`CHANGELOG.md`](https://github.com/PankajKumardev/UI-Unify/blob/main/CHANGELOG.md) for updates.
+Refer to [`CHANGELOG.md`](https://github.com/Muhadev/Nexora/blob/main/CHANGELOG.md) for updates.
 
 ---
 
@@ -155,6 +155,6 @@ Refer to [`CHANGELOG.md`](https://github.com/PankajKumardev/UI-Unify/blob/main/C
 
 For queries or collaborations:
 
-- Email: [pankajams1234@gmail.com](mailto:pankajams1234@gmail.com)
-- LinkedIn: [Pankaj Kumar](https://www.linkedin.com/in/pankajkumardev0/)
-- Twitter: [@pankajkumar_dev](https://x.com/pankajkumar_dev)
+- Email: [pankajams1234@gmail.com](mailto:muhammedfayemi@gmail.com)
+- LinkedIn: [Pankaj Kumar](https://www.linkedin.com/in/muhadev/)
+- Twitter: [@pankajkumar_dev](https://x.com/Muha_dev)
