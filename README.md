@@ -83,7 +83,7 @@ NeXora aggregates components from multiple UI libraries into a single platform f
 1. Clone the repository:
    ```bash
    git clone https://github.com/Muhadev/Nexora.git
-   cd ui-unify
+   cd Nexora
    ```
 2. Install dependencies:
    ```bash
@@ -155,6 +155,6 @@ Refer to [`CHANGELOG.md`](https://github.com/Muhadev/Nexora/blob/main/CHANGELOG.
 
 For queries or collaborations:
 
-- Email: [pankajams1234@gmail.com](mailto:muhammedfayemi@gmail.com)
-- LinkedIn: [Pankaj Kumar](https://www.linkedin.com/in/muhadev/)
-- Twitter: [@pankajkumar_dev](https://x.com/Muha_dev)
+- Email: [muhammedfayemi@gmail.com](mailto:muhammedfayemi@gmail.com)
+- LinkedIn: [Fayemi Muhammed](https://www.linkedin.com/in/muhadev/)
+- Twitter: [@Muha_dev](https://x.com/Muha_dev)
