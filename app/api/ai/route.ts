@@ -8,19 +8,24 @@ if (!googleApiKey) {
 
 const genAI = new GoogleGenerativeAI(googleApiKey);
 
+const corsHeaders = {
+  'Access-Control-Allow-Origin': 'https://ne-xora.vercel.app',
+  'Access-Control-Allow-Methods': 'POST, OPTIONS',
+  'Access-Control-Allow-Headers': 'Content-Type',
+  'Access-Control-Max-Age': '86400',
+};
+
+// ✅ Handle CORS preflight request
+export const OPTIONS = async (req: NextRequest) => {
+  console.log('Received OPTIONS request');
+  return new NextResponse(null, {
+    status: 204,
+    headers: corsHeaders,
+  });
+};
+
+// ✅ Handle POST request
 export const POST = async (req: NextRequest) => {
-  // Add CORS headers allowing only your frontend domain
-  const corsHeaders = {
-    'Access-Control-Allow-Origin': 'https://ne-xora.vercel.app',
-    'Access-Control-Allow-Methods': 'POST, OPTIONS',
-    'Access-Control-Allow-Headers': 'Content-Type',
-  };
-
-  // Handle preflight (OPTIONS) requests
-  if (req.method === 'OPTIONS') {
-    return NextResponse.json({}, { headers: corsHeaders, status: 200 });
-  }
-
   const { prompt } = await req.json();
 
   if (!prompt) {
@@ -45,7 +50,7 @@ export const POST = async (req: NextRequest) => {
       { headers: corsHeaders, status: 200 }
     );
   } catch (e) {
-    console.error('Error occurred while generating AI content', e);
+    console.error('Error generating content', e);
     return NextResponse.json(
       { error: 'Internal Server Error' },
       { headers: corsHeaders, status: 500 }
