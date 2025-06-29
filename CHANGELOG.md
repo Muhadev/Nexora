@@ -20,7 +20,7 @@ All notable changes to this project will be documented in this file.
 - Optimized component previews and code snippets for faster load times.
 - Improved AI component code generation for better accuracy.
 
-## [1.0.0] - 2025-12-21
+## [1.0.0] - 2025-06-21
 
 ### Added
 - Basic project setup with **Next.js**, **TailwindCSS**, and **Framer Motion**.
